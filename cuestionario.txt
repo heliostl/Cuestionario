@@ -1,0 +1,13 @@
+En tus palabras, ¿Qué es internet?
+Son computadoras conectadas a una red a nivel mundial.
+Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+La resolución de nombres utiliza una estructura en árbol, mediante la cual los diferentes servidores DNS
+Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+Describe los protocolos que existen en internet, en específico HTTP y HTML
+¿Qué son los protocolos web HTTP y HTML?
+El Protocolo de transferencia de hipertexto (en inglés, Hypertext Transfer Protocol, abreviado HTTP) es el protocolo de comunicación que permite las transferencias de información a través de archivos (XHML, HTML)
+En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+No abrir archivos desconocidos o dudosas tamvbien a no abrir links de paginas emerghentes o tabien a tener bien asegutrada tu compu con un buen anti virus per especialmente a estar al tanto de las paginas que visitar (revisar que son seguras)
+¿Cómo funciona la búsqueda de google?
